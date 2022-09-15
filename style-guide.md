@@ -1,13 +1,3 @@
-# qr-code-component-main
-
-## Welcome! ??
-
-## Desktop Desgin
-![Design preview for the 3-column preview card component coding challenge](./design/screen/desktop.png)
-
-## Mobile-Design
-![Design preview for the 3-column preview card component coding challenge](./design/screen/mobile.png)
-
 # Front-end Style Guide
 
 ## Layout

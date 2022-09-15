@@ -1,6 +1,6 @@
 # qr-code-component-main
 
-## Welcome! ??
+## Welcome! 👋
 
 ## Desktop Desgin
 ![Design preview for the 3-column preview card component coding challenge](./design/screen/desktop.png)
